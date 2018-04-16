@@ -1,0 +1,17 @@
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\bin\Debug\Graphics2 Ass.1.exe
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\bin\Debug\Graphics2 Ass.1.pdb
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\obj\x86\Debug\Graphics2_Ass._1.Form1.resources
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\obj\x86\Debug\Graphics2_Ass._1.Properties.Resources.resources
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.csproj.GenerateResource.Cache
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.exe
+C:\Users\msi ge\AppData\Local\Temporary Projects\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.pdb
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.exe
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.pdb
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\bin\Debug\Graphics2 Ass.1.exe
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\bin\Debug\Graphics2 Ass.1.pdb
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2_Ass._1.Form1.resources
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2_Ass._1.Properties.Resources.resources
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.csproj.GenerateResource.Cache
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.csprojResolveAssemblyReference.cache
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\hh\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.exe
+D:\MSA Shit\3-2\Graphics 2\Assignments\Graphics2 Ass.1\hh\Graphics2 Ass.1\obj\x86\Debug\Graphics2 Ass.1.pdb
